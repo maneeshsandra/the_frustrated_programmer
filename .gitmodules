@@ -1,3 +1,6 @@
 [submodule "challenges"]
 	path = challenges
 	url = https://github.com/maneeshsandra/challenges.git
+[submodule "sample_Codes"]
+	path = sample_Codes
+	url = https://github.com/maneeshsandra/sample_Codes.git
